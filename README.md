@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm Thomas Howard <br>An aspiring backend Software Engineer<br>With a a primary Tech stack of Java, Python & JavaScript
-
+I'm Thomas Howard <br>Currently a modern engineer working @ Accenture<br>
+Currently im interested in building LLM models from scratch in both C and Python
+But I have a main Tech stack of Python, C, Java and a secondary stack of Javascript and R
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tom.howard00/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thomas-james-howard/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Tom.J.Howard01@gmail.com) 
